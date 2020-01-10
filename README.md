@@ -1,1 +1,1 @@
-# kaur_Harshpreet
+# My awesome SVG project
